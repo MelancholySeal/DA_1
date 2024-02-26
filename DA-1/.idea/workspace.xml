@@ -2,30 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c32525cd-9853-43a8-9953-38a93dc5745a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tasks/ind/ind1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasks/ind/ind1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasks/ind/ind2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasks/ind/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/ind/test2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/pr9-14.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prim/pr1.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pr1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prim/pr10.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pr10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prim/pr11.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pr11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prim/pr12.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pr12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prim/pr13.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pr13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prim/pr14.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pr14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prim/pr15.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pr15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prim/pr16.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pr16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prim/pr17.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pr17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prim/pr2.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pr2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prim/pr3.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pr3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prim/pr4.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pr4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prim/pr5.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pr5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prim/pr6.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pr6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prim/pr7.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pr7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prim/pr8.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pr8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prim/pr9.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pr9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prim/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prim/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/ind/ind2.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/ind/ind2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/ind/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/ind/test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/pr1.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pr1-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/pr10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/pr11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/pr12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/pr13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/pr14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/pr15.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pr15-17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/pr16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/pr17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/pr2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/pr3.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pr3-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/pr4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/pr6.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pr6-7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/pr7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/pr8.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/pr8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/pr9.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,10 +98,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pr1-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DA-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tasks/pr1-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pr15-17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DA-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tasks/pr15-17.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pr3-4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DA-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tasks/pr3-4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.ind2" />
         <item itemvalue="Python.ind1" />
+        <item itemvalue="Python.pr15-17" />
+        <item itemvalue="Python.pr3-4" />
+        <item itemvalue="Python.pr1-2" />
       </list>
     </recent_temporary>
   </component>

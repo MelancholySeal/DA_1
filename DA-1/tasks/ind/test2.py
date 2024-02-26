@@ -1,20 +1,20 @@
-# Это документированная функция
+# комментарий
 def documented_function():
     """
-    Это документирующий комментарий к функции.
+    док
     """
     print("This is a documented function.")
 
 
-def undocumented_function():
+def doc_function():
     """
-    Это документирующий комментарий к функции.
+    док
     """
     print("This is an undocumented function.")
 
 
 def another_documented_function():
-    # Это тоже документированная функция
+    # док
     print("This is another documented function.")
 
 

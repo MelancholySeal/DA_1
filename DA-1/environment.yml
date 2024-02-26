@@ -1,0 +1,33 @@
+name: DA-1
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2023.12.12=hecd8cb5_0
+  - libcxx=14.0.6=h9765a3e_0
+  - libffi=3.4.4=hecd8cb5_0
+  - ncurses=6.4=hcec6c5f_0
+  - openssl=3.0.13=hca72f7f_0
+  - pip=23.3.1=py38hecd8cb5_0
+  - python=3.8.18=h5ee71fb_0
+  - readline=8.2=hca72f7f_0
+  - setuptools=68.2.2=py38hecd8cb5_0
+  - sqlite=3.41.2=h6c40b1e_0
+  - tk=8.6.12=h5d9f67b_0
+  - wheel=0.41.2=py38hecd8cb5_0
+  - xz=5.4.5=h6c40b1e_0
+  - zlib=1.2.13=h4dc903c_0
+  - pip:
+    - black==24.2.0
+    - click==8.1.7
+    - flake8==7.0.0
+    - flake8-black==0.3.6
+    - mccabe==0.7.0
+    - mypy-extensions==1.0.0
+    - packaging==23.2
+    - pathspec==0.12.1
+    - platformdirs==4.2.0
+    - pycodestyle==2.11.1
+    - pyflakes==3.2.0
+    - tomli==2.0.1
+    - typing-extensions==4.10.0
+prefix: /Users/MelancholySeal/opt/anaconda3/envs/DA-1

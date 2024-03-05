@@ -33,7 +33,7 @@ def find_undocumented_functions(file_path):
             in_function = False
         elif line.startswith("#") and in_function:
             in_function = False
-
+    file.close()
     return undocumented_functions
 
 

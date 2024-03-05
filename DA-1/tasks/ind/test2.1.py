@@ -1,4 +1,4 @@
-def documented_function():
+def function():
     """
     док
     """
@@ -24,4 +24,4 @@ def yet_another_undocumented_function():
 
 
 if __name__ == "__main__":
-    documented_function()
+    function()

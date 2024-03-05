@@ -38,9 +38,6 @@ def find_undocumented_functions(file_path):
 
 
 def main():
-    if len(sys.argv) < 2:
-        print("Использование: python script.py file1.py file2.py ...")
-        return
 
     for file_path in sys.argv[1:]:
         undocumented_functions = find_undocumented_functions(file_path)

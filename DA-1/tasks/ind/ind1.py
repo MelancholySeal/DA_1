@@ -18,6 +18,7 @@ def main():
     for sentence in sentences:
         if re.match(r"\s*-", sentence):
             print(sentence)
+    file.close()
 
 
 if __name__ == "__main__":
